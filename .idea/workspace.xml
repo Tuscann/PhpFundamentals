@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85bdb75-befe-4e3e-9b0d-6a4785f69f73" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/00.PHP-Fundamentals-OOP-Fundamentals-Inheritance-Exercises.docx" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/00.PHP-Fundamentals-OOP-Fundamentals-Inheritance-Exercises.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/01.Person/Classes/Child.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/01.Person/Classes/Child.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/01.Person/Classes/Person.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/01.Person/Classes/Person.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/01.Person/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/01.Person/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/02.BookShop/BookApp/Book.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/02.BookShop/BookApp/Book.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/02.BookShop/BookApp/GoldenEditionBook.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/02.BookShop/BookApp/GoldenEditionBook.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/02.BookShop/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/02.BookShop/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/03.Mankind/MankindApp/Human.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/03.Mankind/MankindApp/Human.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/03.Mankind/MankindApp/Student.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/03.Mankind/MankindApp/Student.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/03.Mankind/MankindApp/Worker.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/03.Mankind/MankindApp/Worker.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/03.Mankind/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/03.Mankind/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidArtistNameException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidArtistNameException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongLengthException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongLengthException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongMinutesException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongMinutesException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongNameException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongNameException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongSecondsException.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Exceptions/InvalidSongSecondsException.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Helper/Validator.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Helper/Validator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Models/Playlist.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Models/Playlist.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Models/Song.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/RadioApp/Models/Song.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/04.OnlineRadioDatabase/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/04.OnlineRadioDatabase/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Animal.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Animal.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Cat.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Cat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Contracts/SoundProducible.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Contracts/SoundProducible.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Dog.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Dog.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Frog.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Frog.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Kitten.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Kitten.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Tomcat.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/AnimalsApp/Models/Tomcat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/05.Animals/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/05.Animals/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/06.FamilyTree/FamilyApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/06.FamilyTree/FamilyApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/06.FamilyTree/FamilyApp/Models/FamilyTree.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/06.FamilyTree/FamilyApp/Models/FamilyTree.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/06.FamilyTree/FamilyApp/Models/Person.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/06.FamilyTree/FamilyApp/Models/Person.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/06.FamilyTree/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/06.FamilyTree/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/CatLadyApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/CatLadyApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Cat.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Cat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Cymric.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Cymric.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Siamese.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/Siamese.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/StreetExtraordinaire.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/CatLadyApp/Cats/StreetExtraordinaire.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/01.Inheritance/07.CatLady/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/01.Inheritance/07.CatLady/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/01.ClassBox/Box.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/01.ClassBox/Box.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/01.ClassBox/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/01.ClassBox/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/02.ClassBoxDataValidation/Box.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/02.ClassBoxDataValidation/Box.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/02.ClassBoxDataValidation/Helper.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/02.ClassBoxDataValidation/Helper.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/02.ClassBoxDataValidation/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/02.ClassBoxDataValidation/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Helpers/Validator.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Helpers/Validator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Person.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Person.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Product.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Product.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Shop.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/ShoppingApp/Models/Shop.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/03.ShoppingSpree/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/03.ShoppingSpree/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Factories/FoodFactory.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Factories/FoodFactory.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Helpers/Validator.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Helpers/Validator.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Apple.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Apple.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Cram.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Cram.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/FoodBase.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/FoodBase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/HoneyCake.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/HoneyCake.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Lembas.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Lembas.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Melon.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Melon.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Mushrooms.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/Mushrooms.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/RegularFood.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Foods/RegularFood.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Mood.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Mood.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Wizard.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/GandalfApp/Models/Wizard.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/04.MordorsPlan/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/04.MordorsPlan/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/App.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/App.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Dough.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Dough.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Pizza.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Pizza.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Topping.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/05.PizzaCalories/PizzaApp/Models/Topping.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09.OOPFundamentals/02.Encapsulation/05.PizzaCalories/index.php" afterPath="$PROJECT_DIR$/09.OOP Fundamentals/02.Encapsulation/05.PizzaCalories/index.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01.Person.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01.Person.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01. Vehicles.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01. Vehicles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2397">
+              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="90" column="1" lean-forward="true" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/10.OOPAdvanced/01.Person.php" />
+        <option value="$PROJECT_DIR$/10.OOPAdvanced/01. Vehicles.php" />
+        <option value="$PROJECT_DIR$/10.OOPAdvanced/test.php" />
+        <option value="$PROJECT_DIR$/../../php/php.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="xamp php" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1928" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10.OOPAdvanced" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09.OOP Fundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09.OOP Fundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02.Encapsulation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08.OOP" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpFundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php/php.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="PHP Script.test.php">
+    <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/10.OOPAdvanced/test.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85bdb75-befe-4e3e-9b0d-6a4785f69f73" name="Default" comment="" />
+      <created>1489168624020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489168624020</updated>
+      <workItem from="1489168625120" duration="2606000" />
+      <workItem from="1489172073740" duration="1536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01.Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01. Vehicles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="90" column="1" lean-forward="true" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01.Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/01. Vehicles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../haku/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.OOPAdvanced/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="90" column="1" lean-forward="true" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
